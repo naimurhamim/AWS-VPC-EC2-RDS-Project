@@ -178,8 +178,6 @@ Successfully accessed the deployed web application.
 
 ---
 
-## 🧑‍💻 Author
-
 **MD Naimur Rashid**  
 University of Frontier Technology
 
