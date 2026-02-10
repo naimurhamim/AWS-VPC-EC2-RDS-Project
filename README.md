@@ -1,5 +1,4 @@
-# AWS Project: VPC, EC2, RDS and Internet Gateway  
-**Cloud Bootcamp Hands-on Project**
+# AWS Project: VPC, EC2, RDS and Internet Gateway  -
 
 This project demonstrates a complete AWS infrastructure setup using **Amazon VPC, EC2, RDS (MySQL), Internet Gateway, NAT Gateway, Route Tables, and Security Groups**.  
 The goal was to deploy a secure, scalable web application architecture following AWS best practices.
